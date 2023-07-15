@@ -1,4 +1,4 @@
-# benchmark-native
+# benchmark-node-native-addon
 
 ## How to run
 
