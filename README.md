@@ -69,3 +69,4 @@ Here native is faster, since it doesn't have to return anything.
 - Native modules are faster for computationally intensive tasks
 - Returning values from native modules is slow, specially if you need to deal with complex JS objects
 - Native modules are harder to write and debug
+- Trying to use native objects like `std::map` is may not be worth it, since JS objects are good enough if not better (might be different for other containers)
