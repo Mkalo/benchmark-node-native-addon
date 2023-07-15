@@ -1,5 +1,9 @@
 # benchmark-node-native-addon
 
+Take everything here with a big grain of salt, as my experience with developing native addons for node is limited, and my C++ is also rusty after too many years of JavaScript 🙃
+
+---
+
 ## How to run
 
 ```
